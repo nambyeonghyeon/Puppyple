@@ -42,3 +42,4 @@
 - 관리자페이지
 - 소셜 로그인
 
+![메인](https://user-images.githubusercontent.com/94150003/148225921-32f7c3be-8127-4c68-aebb-96e0c0bbbf48.PNG)
